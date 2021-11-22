@@ -1,3 +1,8 @@
+---
+title: "The zebra stripes mystery"
+date: 2021-11-22
+---
+
 # Are zebras white with black stripes or black with white stripes?
 
 #### *Article taken from https://www.livescience.com. Written by Jennifer Welsh*
